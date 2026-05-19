@@ -1,0 +1,26 @@
+pyproject.toml
+Frostguard/Kämpfer.py
+Frostguard/__init__.py
+Frostguard/battle.py
+Frostguard/character.py
+Frostguard/dice.py
+Frostguard/effects.py
+Frostguard/monsters.py
+Frostguard/pc.py
+Frostguard/power.py
+Frostguard/spells.py
+Frostguard/ttrpg_damage_eval.py
+Frostguard/Legacy/Test.py
+Frostguard/Legacy/Test2.py
+Frostguard/Legacy/Test3.py
+Frostguard/Legacy/Test4.py
+Frostguard/Legacy/monsters.py
+Frostguard/Legacy/pc.py
+Tests/Arena.py
+Tests/PowerTest.py
+Tests/Testing Grounds.py
+frostguard.egg-info/PKG-INFO
+frostguard.egg-info/SOURCES.txt
+frostguard.egg-info/dependency_links.txt
+frostguard.egg-info/top_level.txt
+tests/Testing Grounds.py
